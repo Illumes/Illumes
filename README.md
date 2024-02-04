@@ -12,7 +12,7 @@ An AutoClicker
 A High School Student
 </p>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Statistics 📈</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Illumes&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -24,7 +24,7 @@ A High School Student
 </p>
 
 
-<h2 align="center">Now Playing</h2>
+<h2 align="center">Now Playing 🎵</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://spotify-github-profile.vercel.app/api/view?uid=ld50anrrr8nokyfqwwgoquba1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false">
