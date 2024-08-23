@@ -27,7 +27,7 @@ A High School Student
 <h2 align="center">Now Playing 🎵</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinax.com/api/view?uid=ld50anrrr8nokyfqwwgoquba1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false">
+  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinanx.com/api/view?uid=ld50anrrr8nokyfqwwgoquba1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false">
 </p>
   
 <!--
