@@ -5,11 +5,11 @@
 
 🔭 I’m currently working on:
 
-An AutoClicker
+Nothing
 
 📖 I am currently:
 
-A High School Student
+A College Student
 </p>
 
 <h2 align="center">Statistics 📈</h2>
